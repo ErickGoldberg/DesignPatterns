@@ -1,6 +1,6 @@
 # Padrões de Projeto (Design Patterns)
 
-Os padrões de projeto (Design Patterns) são soluções reutilizáveis para problemas comuns no desenvolvimento de software. Eles foram popularizados pelo livro "Design Patterns: Elements of Reusable Object-Oriented Software" de Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, conhecidos como "Gang of Four" (GoF). Existem 23 padrões de projeto descritos no livro, mas aqui vamos focar nos 22 mais conhecidos, divididos em três categorias: Padrões Criacionais, Padrões Estruturais e Padrões Comportamentais.
+Os padrões de projeto (Design Patterns) são soluções reutilizáveis para problemas comuns no desenvolvimento de software. Eles foram popularizados pelo livro "Design Patterns: Elements of Reusable Object-Oriented Software" de Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, conhecidos como "Gang of Four" (GoF). Existem 23 padrões de projeto descritos no livro, divididos em três categorias: Padrões Criacionais, Padrões Estruturais e Padrões Comportamentais.
 
 ## Padrões Criacionais
 
