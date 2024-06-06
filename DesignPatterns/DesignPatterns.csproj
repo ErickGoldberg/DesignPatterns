@@ -18,13 +18,10 @@
     <Folder Include="Behavioral\Strategy\" />
     <Folder Include="Behavioral\State\" />
     <Folder Include="Behavioral\Observer\" />
-    <Folder Include="Structural\Adapter\" />
-    <Folder Include="Structural\Bridge\" />
-    <Folder Include="Structural\Composite\" />
-    <Folder Include="Structural\Decorator\" />
-    <Folder Include="Structural\Facade\" />
-    <Folder Include="Structural\Flyweight\" />
-    <Folder Include="Structural\Proxy\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
