@@ -7,20 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Behavioral\Chain of Responsibility\" />
-    <Folder Include="Behavioral\Command\" />
-    <Folder Include="Behavioral\Interpreter\" />
-    <Folder Include="Behavioral\Iterator\" />
-    <Folder Include="Behavioral\Mediator\" />
-    <Folder Include="Behavioral\Memento\" />
-    <Folder Include="Behavioral\Visitor\" />
-    <Folder Include="Behavioral\Template Method\" />
-    <Folder Include="Behavioral\Strategy\" />
-    <Folder Include="Behavioral\State\" />
-    <Folder Include="Behavioral\Observer\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
